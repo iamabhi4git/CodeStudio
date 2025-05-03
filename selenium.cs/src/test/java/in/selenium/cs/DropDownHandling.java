@@ -52,7 +52,5 @@ public class DropDownHandling {
 			System.out.println(el.getText());
 		}
 		
-		
-		
 	}
 }
